@@ -1,0 +1,6 @@
+site_name: Open DMC1
+nav:
+  - Home: index.md
+  - Status: status.md
+theme:
+  name: shadcn
