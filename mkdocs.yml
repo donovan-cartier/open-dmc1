@@ -1,4 +1,6 @@
 site_name: Open DMC1
+site_url: https://donovan-cartier.github.io/open-dmc1/
+use_directory_urls: true
 nav:
   - Home: index.md
   - Status: status.md
